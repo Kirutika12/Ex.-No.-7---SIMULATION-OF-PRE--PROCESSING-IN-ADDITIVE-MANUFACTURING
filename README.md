@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Screenshot 2024-12-04 103244](https://github.com/user-attachments/assets/f00a85fc-321a-4abc-bddf-5ff108eddd21)
+![EMPD 1](https://github.com/user-attachments/assets/b3420eb0-a5bc-4a55-b4da-fb6d20bffd16)
+![EMPD 2](https://github.com/user-attachments/assets/00ab0c6b-8c5c-4fe5-a066-9f71240e9ffc)
+![EMPD 3](https://github.com/user-attachments/assets/bd04d952-6fa5-438a-930e-cd74f0eab373)
+![EMPD 4](https://github.com/user-attachments/assets/df7464be-6d5e-4c12-bce6-7fa8bb223aac)
+![EMPD 5](https://github.com/user-attachments/assets/c2042b16-106f-46f7-9a61-e45a9b43ae7a)
 
-## Output:
-
-### Name:
-### Register Number:
+### Name:Kirutika KR
+### Register Number:24001080
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
